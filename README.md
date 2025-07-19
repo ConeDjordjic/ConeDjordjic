@@ -1,5 +1,4 @@
-# $ whoami
-
+# About me
 Self-taught software developer passionate about creating real-world applications using **C#** and **Go** for backend services and **React** with **TypeScript** for frontend development. I love tackling cybersecurity challenges and building efficient, scalable solutions.
 
 Currently studying at **Faculty of Technical Sciences** while working on various projects ranging from system tools to web applications.
